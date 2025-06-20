@@ -1,26 +1,39 @@
-# 👋 Hello there! I'm Vyom
+<h1 align="center">Hi 👋, I'm Vyom Dinkar</h1>
+<h3 align="center">A passionate software developer and curious learner from India</h3>
 
-🎓 I'm a first-year B.Tech student majoring in **Information Technology**  
-💻 I’ve got a moderate command of **Python** and I’m eager to keep learning and growing  
-🌱 Exploring new concepts and building cool stuff as I go  
-🚀 Always on the lookout for opportunities to learn and collaborate  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vyom8013&label=Profile%20views&color=0e75b6&style=flat" alt="vyom8013" /> 
+</p>
 
-## 🔧 Skills I'm Working On
-- Python (intermediate level)
-- Git & GitHub (just started version control—loving it!)
-- HTML, CSS (baby steps into web design)
-- Data Structures and Algorithms (getting the hang of it!)
+- 🎓 I'm a first-year B.Tech student majoring in Information Technology  
+- 🐍 Currently diving deeper into Python and loving every bit of it  
+- 🔭 Exploring data structures, web development, and open-source  
+- 🌱 Always learning, always building  
+- 📫 Reach me at **vyom8013@gmail.com**
 
-## 📌 Goals
-- Build personal Python projects  
-- Contribute to open source (even a small PR counts!)  
-- Learn more about web dev, data science, and AI  
-- Land an internship or tech opportunity to gain real-world experience  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-## 📫 Reach Out
-- 📧 Email: vyom8013@gmail.com  
-- 🐙 GitHub: [github.com/vyom8013](https://github.com/vyom8013)
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyom8013&show_icons=true&locale=en&layout=compact" alt="vyom8013" />
+</p>
 
----
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vyom8013&show_icons=true&locale=en" alt="vyom8013" />
+</p>
 
-Thanks for visiting my profile! Let’s connect, collaborate, or just geek out over code together 😊
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyom8013&" alt="vyom8013" />
+</p>
+
